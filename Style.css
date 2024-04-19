@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.head{
+    height: 100px;
+    width: 100%;
+    padding: 15px;
+}
+.hp1{
+    color: orange;
+    font-size: 70px;
+}
+.hp2{
+    
+    font-style: italic;
+    font-size: 30px;
+}
+.part1{
+    height: 400px;
+    width: 100%;
+}
+.pb{
+    height: 100%;
+    width: 60%;
+    padding-top: 200px;
+    box-sizing: border-box;
+    font-size: 70px;
+    float: left;
+    margin: 0px;
+    background: linear-gradient(to bottom, white 15%, lightblue 100%);
+}
+.part-1img{
+    float: left;
+    height: 100%;
+    width: 40%;
+    
+}
+.part2{
+    height: 100%;
+}
+.part2h{
+    padding-top: 30px;
+    color: skyblue;
+    padding-bottom: 70px;
+}
+.images{
+    height: 300px;
+    display: flex;
+}
+.img1 img{
+    height: 100%;
+    margin-left: 20px;
+}
+.img2 img{
+    height: 100%;
+    margin-left: 20px;
+}
+.img3 img{
+    height: 100%;
+    margin-left: 20px;
+}
+.img4 img{
+    height: 100%;
+    margin-left: 20px;
+}
+
+.part2 .data1{
+    padding-top: 5px;
+    margin-left: 100px;
+    font-size: 30px;
+}
+.part2 .data2{
+    padding-top: 5px;
+    margin-left: 100px;
+    font-size: 30px;
+}
+.part2 .data3{
+    padding-top: 5px;
+    margin-left: 100px;
+    font-size: 30px;
+}
+.part2 .data4{
+    padding-top: 5px;
+    margin-left: 100px;
+    font-size: 30px;
+}
+.part3{
+   margin-top: 230px;   
+}
+.part3-head{
+    margin-left: 30px;
+    text-transform: capitalize;
+}
+.list{
+   margin-top: 20px;
+   margin-left: 90px;
+   font-size: 30px;
+   
+}
+.part4{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.prthead{
+    margin-bottom: 22px;
+    font-style: italic;
+}
+.prtpara{
+    font-family: cursive;
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+.prttable table{
+    width: 70%;
+    margin-bottom: 20px;
+}
+.prttable th, td{
+    padding-left: 15px;
+}
+.prttable table, th, td{
+    border: 1px solid ;
+    font-size: 30px;
+}
+.prttable tr:hover{
+    background-color: skyblue;
+}
+.part5{
+    margin-bottom: 30px;
+    width: 99%;
+    margin-left: 10px;
+}
+.box{
+    color: white;
+    height: 65px;
+    background-color: black;
+    font-size: 40px;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+.part6{
+    margin-top: 20px;
+    height: 130px;
+    
+}
+.bottom{
+    height: 100%;
+    background-color: grey;
+}
+
+
+
